@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi I'm Marcelo Juarez 👋
 
-Hi there, I'm **Marcelo Juarez**, a **Computer Science Engineering student**.
+<div align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Inspirational GIF">
+</div>
 
 I am from Guatemala City. Now I am studying Computer Science Engineering at **[USAC](https://www.usac.edu.gt/)**.
 
