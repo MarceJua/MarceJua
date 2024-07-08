@@ -30,11 +30,10 @@ I am from Guatemala City. Now I am studying Computer Science Engineering at **[U
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
-
+- Personal website:
+- Instagram: [![Instagram](https://img.shields.io/badge/@marc.rej-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marc.rej/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-juarez-is/)
+- Email: [![Email](https://img.shields.io/badge/mjuarez2017ig@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mjuarez2017ig@gmail.com)
 
 ### My GitHub Stats
 
