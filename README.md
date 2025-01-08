@@ -28,7 +28,7 @@ I am from Guatemala City. Now I am studying Computer Science Engineering at **[U
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)  
 
 ### Contact me:
 
