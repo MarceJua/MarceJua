@@ -8,14 +8,15 @@ I am from Guatemala City. Now I am studying Computer Science Engineering at **[U
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree 
-- Taking online courses about C/C++ 
+- Taking online courses about AWS
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
-- Improving my coding logic solving 2 exercise per day
+- Improving my coding logic solving 2 exercises per day
 - Exercising 5 days a week
 - Improving my CV with some education apart from university
+- Practicing guitar and learning new songs consistently
 
 ### Languages and Tools:
 
@@ -32,10 +33,19 @@ I am from Guatemala City. Now I am studying Computer Science Engineering at **[U
 
 ### Contact me:
 
-- Personal website:
-- Instagram: [![Instagram](https://img.shields.io/badge/@marc.rej-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marc.rej/)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-juarez-is/)
-- Email: [![Email](https://img.shields.io/badge/mjuarez2017ig@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mjuarez2017ig@gmail.com)
+- Instagram:  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/marc.drej)
+
+- LinkedIn:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-juarez-is/)
+
+- Email:  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mjuarez2017ig@gmail.com)
+
+### Creative Side:
+
+- TikTok (Guitar Covers):  
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@marc.drej)
 
 ### My GitHub Stats
 
